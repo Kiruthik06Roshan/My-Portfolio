@@ -53,7 +53,9 @@ export default function Hero() {
                 GitHub
               </motion.a>
               <motion.a
-                href="#contact"
+                href="https://drive.google.com/file/d/1VyX4XsTgaJnBNL7bD8ConPQcIHpD25u6/view?usp=sharing"
+                target="_blank"
+                rel="noreferrer"
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.98 }}
                 transition={{ duration: 0.2, ease: 'easeOut' }}

@@ -3,8 +3,8 @@ import { motion } from 'framer-motion'
 const contactMethods = [
   {
     label: 'Primary Email',
-    value: 'yourname@gmail.com',
-    href: 'mailto:yourname@gmail.com',
+    value: 'saitamaroshan@gmail.com',
+    href: 'mailto:saitamaroshan@gmail.com',
     icon: '✉',
   },
   {
